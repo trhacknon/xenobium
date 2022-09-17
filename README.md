@@ -8,9 +8,9 @@ pkg up -y
 pkg i python -y
 pkg i git -y
 git clone https://github.com/ITSN0B1T4/xenobium
-cd xenobium.py
+cd xenobium
 pip3 install -r requirements.txt
-python hoichoi.py
+python xenobium.py
 ````
 
 > NOW GIVE YOUR COMBOFILE PATH
